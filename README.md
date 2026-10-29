@@ -1,4 +1,4 @@
-# MedGuard AI
+# MedGuard AI (medagaurdAI)
 
 MedGuard AI monitors health-related website content and compares extracted claims with a searchable reference library. It is a research/demo tool, not a clinical decision system. The bundled demo corpus is explicitly fictional; it must not be described as FDA guidance. Connect licensed, authoritative sources before using real-world claims.
 
